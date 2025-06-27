@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Billrenato&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
@@ -38,15 +38,12 @@
 </p>
 
 ---
+<br>
 
-### 🧠 Projetos em destaque
-
-- [🔍 HandDoc AI](https://github.com/Billrenato/HandDocAI) – OCR com IA para textos manuscritos (Python + TrOCR + FastAPI + Android)
+<div align="center">
 
 
----
-
-### 🌐 Vamos conectar?
+### 🌐 Contatos
 [![LinkedIn](https://img.shields.io/badge/-Renato%20Jr-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-jr-mathias-b76117221/)](https://www.linkedin.com/in/renato-jr-mathias-b76117221/)
 [![Gmail](https://img.shields.io/badge/-renatojrmathias94@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:renatojrmathias94@gmail.com)
 
@@ -55,4 +52,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29&height=100&section=footer"/>
 </p>
+  
+  
+  <div>
+
+
 
