@@ -47,11 +47,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Renato%20Jr-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-jr-mathias-b76117221/)](https://www.linkedin.com/in/renato-jr-mathias-b76117221/)
 [![Gmail](https://img.shields.io/badge/-renatojrmathias94@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:renatojrmathias94@gmail.com)
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29&height=100&section=footer"/>
-</p>
   
   
   <div>
