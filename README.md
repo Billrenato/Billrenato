@@ -1,6 +1,7 @@
 <!-- Perfil README - Billrenato -->
 
-<h1 align="center">Olá, eu sou o Renato 👋</h1>
+<h1 align="center">Bem-vindo!</h1>
+<h2 align="center">Eu sou Renato, desenvolvedor Full Stack</h2>
 <p align="center">
   <i>Desenvolvedor Full Stack com foco em Backend, APIs e soluções com IA</i><br>
   <i>Seja bem-vindo ao meu espaço de projetos e experimentos no GitHub!</i>
