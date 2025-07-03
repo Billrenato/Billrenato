@@ -1,20 +1,15 @@
 <!-- Perfil README - Billrenato -->
 
-<h1 align="center">Bem-vindo!</h1>
-<h2 align="center">Eu sou Renato, desenvolvedor Full Stack</h2>
+<h1 align="center">👋 Olá! Eu sou Renato</h1>
+<h2 align="center">Desenvolvedor Full Stack </h2>
+
 <p align="center">
-  <i>Desenvolvedor Full Stack com foco em Backend, APIs e soluções com IA</i><br>
-  <i>Seja bem-vindo ao meu espaço de projetos e experimentos no GitHub!</i>
+  <i>Seja bem-vindo ao meu espaço de projetos, experimentos e estudos no GitHub!</i>
 </p>
 
-
-
-
-
- <br>
+<br>
 
 <div align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
@@ -23,11 +18,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java / Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-
 </div>
+
+<br>
 
 ---
 
@@ -38,15 +34,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billrenato&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
+<br>
+
 ---
+
 <br>
 
 <div align="center">
 
-
-### 🌐 Contatos
-[![LinkedIn](https://img.shields.io/badge/-Renato%20Jr-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-jr-mathias-b76117221/)](https://www.linkedin.com/in/renato-jr-mathias-b76117221/)
+### 🌐 Entre em contato
+[![LinkedIn](https://img.shields.io/badge/-Renato%20Jr-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renato-jr-mathias-b76117221/)
 [![Gmail](https://img.shields.io/badge/-renatojrmathias94@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:renatojrmathias94@gmail.com)
+
+</div>
 
 
   
