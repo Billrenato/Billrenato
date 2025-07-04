@@ -4,7 +4,8 @@
 <h2 align="center">Desenvolvedor Full Stack </h2>
 
 <p align="center">
-  <i>Seja muito bem-vindo ao meu espaço dedicado a projetos, experimentos, estudos e criações no GitHub! Aqui compartilho ideias, soluções e aprendizados que venho desenvolvendo ao longo da minha jornada como desenvolvedor.</i>
+  <i>Seja muito bem-vindo ao meu espaço dedicado a projetos, experimentos, estudos e criações no GitHub! <br>
+    Aqui compartilho ideias, soluções e aprendizados que venho desenvolvendo ao longo da minha jornada como desenvolvedor.</i>
 </p>
 
 <br>
