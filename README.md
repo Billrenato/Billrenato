@@ -1,6 +1,6 @@
 <!-- Perfil README - Billrenato -->
 
-<h1 align="center"> Olá! Eu sou Renato</h1>
+
 <h2 align="center">Desenvolvedor Full Stack </h2>
 
 <p align="center">
