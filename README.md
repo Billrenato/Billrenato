@@ -10,7 +10,7 @@
 
 <h2 align="center">🧠 Sobre mim</h2>
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas pela Uninter (2023), iniciei minha jornada na tecnologia em 2021, movido pela paixão por hardware, jogos e IA.<br>
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela Uninter, movido pela paixão por hardware, jogos e IA.<br>
 
 💼 Atualmente sou Analista e Desenvolvedor na Psoft, atuando com automações em Python, desenvolvimento de APIs REST e integração de soluções para mobile.<br>
 
