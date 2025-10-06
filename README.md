@@ -39,7 +39,11 @@ Sistema completo de OCR com IA para reconhecimento de textos manuscritos e gera�
 - 🐍 **Python para Iniciantes** – UNINTER
 
 ---
-
+<div align="center">
+  <a href="https://www.credly.com/badges/d4ff8d8b-0bb6-4a02-ad07-0eb643bd6d3e/public_url" target="_blank">
+    <img src="https://github.com/Billrenato/Billrenato/blob/main/google-it-automation-with-python-professional-certi%20(1).png" width="150" alt="Google IT Automation with Python Certificate" />
+  </a>
+</div>
 
 
 <h2 align="center">🛠️ Tecnologias que utilizo</h2>
