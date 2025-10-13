@@ -1,54 +1,58 @@
 <!-- Perfil README - Renato Jr (Billrenato) -->
 
-<h1 align="center">Olá, eu sou o Renato 👋</h1>
-<p align="center">
-  <i>Desenvolvedor Full Stack</i><br>
-  <i>Bem-vindo ao meu espaço de projetos, estudos e inovações no GitHub!</i>
-</p>
+# Olá, eu sou o Renato  
+
+Desenvolvedor Full Stack apaixonado por tecnologia, inovação e aprendizado constante.  
+Bem-vindo ao meu espaço no GitHub — aqui compartilho projetos, estudos e experimentos que refletem minha jornada na área de desenvolvimento e automação.  
 
 ---
 
-<h2 align="center">🧠 Sobre mim</h2>
+## Sobre mim  
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas pela Uninter, movido pela paixão por hardware, jogos e IA.<br>
+Formado em **Análise e Desenvolvimento de Sistemas** pela Uninter, sou movido pela curiosidade e pelo desafio de transformar ideias em soluções reais.  
+Tenho grande interesse por **hardware, jogos e inteligência artificial**, e busco sempre unir criatividade com boas práticas de desenvolvimento.  
 
-💼 Atualmente sou Analista e Desenvolvedor na Psoft, atuando com automações em Python, desenvolvimento de APIs REST e integração de soluções para mobile.<br>
-
-
----
-
-<h2 align="center">📌 Principais Projetos</h2>
-
-### 🤖 [HandDoc AI](https://github.com/Billrenato/handdoc-ai)
-Sistema completo de OCR com IA para reconhecimento de textos manuscritos e geração de relatórios (PDF, TXT, Word).
-
-- 📱 Flutter (Android e IOS) para capturar e enviar imagens
-- 🧠 Backend em Python com FastAPI + TrOCR (Transformers)
-- 🗃️ PostgreSQL com SQLAlchemy
-- ☁️ Docker, API REST, OpenCV, EasyOCR
-- 💾 Exportação de resultados em vários formatos
+Atualmente, atuo como **Analista e Desenvolvedor na Psoft**, onde trabalho com **automação de processos em Python**, **integração de sistemas mobile via API REST** e **otimização de ambientes de desenvolvimento e produção**.  
+Minha experiência também envolve **testes de software, suporte técnico e análise de dados**, o que me permite enxergar o ciclo completo de uma solução — da concepção à entrega final.  
 
 ---
 
-<h2 align="center">📚 Formação e Certificações</h2>
+## Principais Projetos  
 
-- 💻 **Análise e Desenvolvimento de Sistemas** – Uninter (2023)
-- 📘 **JavaScript do Básico ao Avançado** – Hora de Codar (2022)
-- 🗃️ **Dados com Pandas & SQL** – Asimov Academy
-- 🗃️ **Banco de Dados Relacional e NoSQL** – Danki Code
-- 🐍 **Python para Iniciantes** – UNINTER
+### HandDoc AI  
+Sistema completo de OCR com inteligência artificial para reconhecimento de textos manuscritos e geração automática de relatórios (PDF, TXT e Word).  
+
+- Aplicativo em **Flutter** (Android e iOS) para captura e envio de imagens  
+- Backend em **Python** com **FastAPI** e modelo **TrOCR (Transformers)**  
+- Banco de dados **PostgreSQL** com **SQLAlchemy**  
+- Integrações com **Docker**, **OpenCV** e **EasyOCR**  
+- Exportação dos resultados em múltiplos formatos  
+
+[Ver repositório](https://github.com/Billrenato/handdoc-ai)  
 
 ---
-<div align="center">
-  <a href="https://www.credly.com/badges/d4ff8d8b-0bb6-4a02-ad07-0eb643bd6d3e/public_url" target="_blank">
-    <img src="https://github.com/Billrenato/Billrenato/blob/main/google-it-automation-with-python-professional-certi%20(1).png" width="150" alt="Google IT Automation with Python Certificate" />
-  </a>
-</div>
+
+## Formação e Certificações  
+
+- **Análise e Desenvolvimento de Sistemas** – Uninter (2023)  
+- **Certificação Profissional – Google IT Automation with Python (Google / Coursera)**  
+- **JavaScript do Básico ao Avançado** – Hora de Codar (2022)  
+- **Dados com Pandas & SQL** – Asimov Academy  
+- **Banco de Dados Relacional e NoSQL** – Danki Code  
+- **Python para Iniciantes** – UNINTER  
+
+---
+
+## Contato  
+
+- **LinkedIn:** [linkedin.com/in/renato-jr-mathias-b76117221](https://www.linkedin.com/in/renato-jr-mathias-b76117221)  
+- **E-mail:** renatojrmathias94@gmail.com  
+- **GitHub:** [github.com/Billrenato](https://github.com/Billrenato)  
+
+---
 
 
-<h2 align="center">🛠️ Tecnologias que utilizo</h2>
-
-<div align="center">
+<!---<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
@@ -59,28 +63,15 @@ Sistema completo de OCR com IA para reconhecimento de textos manuscritos e gera�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java / Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-</div>
+</div>-->
 
----
 
-<h2 align="center">📈 Estatísticas</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Billrenato&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billrenato&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billrenato&layout=compact&theme=tokyonight" width="36.3%" />
 </p>
 
----
 
-<h2 align="center">🌐 Entre em contato</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/renato-jr-mathias-b76117221/" target="_blank">
-    <img src="https://img.shields.io/badge/-Renato%20Jr-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:renatojrmathias94@gmail.com">
-    <img src="https://img.shields.io/badge/-renatojrmathias94@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-</div>
 
 
