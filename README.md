@@ -12,7 +12,7 @@ Bem-vindo ao meu espaço no GitHub — aqui compartilho projetos, estudos e expe
 Formado em **Análise e Desenvolvimento de Sistemas** pela Uninter, sou movido pela curiosidade e pelo desafio de transformar ideias em soluções reais.  
 Tenho grande interesse por **hardware, jogos e inteligência artificial**, e busco sempre unir criatividade com boas práticas de desenvolvimento.  
 
-Atualmente, atuo como **Analista e Desenvolvedor na Psoft**, onde trabalho com **automação de processos em Python**, **integração de sistemas mobile via API REST** e **otimização de ambientes de desenvolvimento e produção**.  
+Atualmente, atuo como **Analista e Desenvolvedor na Psoft**, onde trabalho com **automação de processos em Python**, **integração de sistemas via API REST** e **otimização de ambientes de desenvolvimento e produção**.  
 Minha experiência também envolve **testes de software, suporte técnico e análise de dados**, o que me permite enxergar o ciclo completo de uma solução — da concepção à entrega final.  
 
 ---
