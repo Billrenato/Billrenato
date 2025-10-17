@@ -19,6 +19,21 @@ Minha experiência também envolve **testes de software, suporte técnico e aná
 
 ## Principais Projetos  
 
+## Principais Projetos  
+
+### ServerMonitor AI  
+Plataforma inteligente para **monitoramento de servidores**, **análise de desempenho** e **alertas automáticos** em tempo real.  
+
+- Backend em **Python** com **FastAPI** e **Celery** para execução de tarefas assíncronas  
+- Coleta de métricas do sistema (CPU, memória, disco e rede) com **psutil**  
+- Armazenamento histórico em **PostgreSQL** e visualização com **Grafana**  
+- Alertas automáticos via **e-mail** e **API do Telegram**  
+- Integração com **Docker** e **Prometheus** para monitoramento avançado  
+- Painel web interativo desenvolvido com **Bootstrap** e **Chart.js**  
+
+[Ver repositório](https://github.com/Billrenato/Server-Monitoring)  
+
+
 ### HandDoc AI  
 Sistema completo de OCR com inteligência artificial para reconhecimento de textos manuscritos e geração automática de relatórios (PDF, TXT e Word).  
 
