@@ -19,8 +19,6 @@ Minha experiência também envolve **testes de software, suporte técnico e aná
 
 ## Principais Projetos  
 
-## Principais Projetos  
-
 ### ServerMonitor AI  
 Plataforma inteligente para **monitoramento de servidores**, **análise de desempenho** e **alertas automáticos** em tempo real.  
 
