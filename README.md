@@ -1,68 +1,25 @@
-<!-- Perfil README - Renato Jr (Billrenato) -->
+<!-- Profile README - Renato Jr (Billrenato) -->
 
-# Olá, eu sou o Renato  
+# Welcome! I'm Renato   
 
-Desenvolvedor Full Stack apaixonado por tecnologia, inovação e aprendizado constante.  
-Bem-vindo ao meu espaço no GitHub — aqui compartilho projetos, estudos e experimentos que refletem minha jornada na área de desenvolvimento e automação.  
-
----
-
-## Sobre mim  
-
-Formado em **Análise e Desenvolvimento de Sistemas** pela Uninter, sou movido pela curiosidade e pelo desafio de transformar ideias em soluções reais.  
-Tenho grande interesse por **hardware, jogos e inteligência artificial**, e busco sempre unir criatividade com boas práticas de desenvolvimento.  
-
-Atualmente, atuo como **Analista e Desenvolvedor na Psoft**, onde trabalho com **automação de processos em Python**, **integração de sistemas via API REST** e **otimização de ambientes de desenvolvimento e produção**.  
-Minha experiência também envolve **testes de software, suporte técnico e análise de dados**, o que me permite enxergar o ciclo completo de uma solução — da concepção à entrega final.  
+Full Stack Developer passionate about technology, innovation, and continuous learning.  
+Welcome to my GitHub space — here I share projects, studies, and experiments that reflect my journey in software development and automation.  
 
 ---
 
-## Principais Projetos  
+## About Me  
 
-### ServerMonitor AI  
-Plataforma inteligente para **monitoramento de servidores**, **análise de desempenho** e **alertas automáticos** em tempo real.  
+Graduated in **Systems Analysis and Development** from Uninter, I’m driven by curiosity and the challenge of turning ideas into real-world solutions.  
+I have a strong interest in **hardware, games, and artificial intelligence**, always aiming to combine creativity with solid development practices.  
 
-- Backend em **Python** com **FastAPI** e **Celery** para execução de tarefas assíncronas  
-- Coleta de métricas do sistema (CPU, memória, disco e rede) com **psutil**  
-- Armazenamento histórico em **PostgreSQL** e visualização com **Grafana**  
-- Alertas automáticos via **e-mail** e **API do Telegram**  
-- Integração com **Docker** e **Prometheus** para monitoramento avançado  
-- Painel web interativo desenvolvido com **Bootstrap** e **Chart.js**  
-
-[Ver repositório](https://github.com/Billrenato/Server-Monitoring)  
-
-
-### HandDoc AI  
-Sistema completo de OCR com inteligência artificial para reconhecimento de textos manuscritos e geração automática de relatórios (PDF, TXT e Word).  
-
-- Aplicativo em **Flutter** (Android e iOS) para captura e envio de imagens  
-- Backend em **Python** com **FastAPI** e modelo **TrOCR (Transformers)**  
-- Banco de dados **PostgreSQL** com **SQLAlchemy**  
-- Integrações com **Docker**, **OpenCV** e **EasyOCR**  
-- Exportação dos resultados em múltiplos formatos  
-
-[Ver repositório](https://github.com/Billrenato/handdoc-ai)  
+Currently, I work as an **Analyst and Developer at Psoft**, where I focus on **process automation using Python**, **API REST system integration**, and **optimization of development and production environments**.  
+My background also includes **software testing, technical support, and data analysis**, giving me a full view of a solution’s life cycle — from concept to final delivery.  
 
 ---
-
-## Formação e Certificações  
-
-- **Análise e Desenvolvimento de Sistemas** – Uninter (2023)  
-- **Certificação Profissional – Google IT Automation with Python (Google / Coursera)**  
-- **JavaScript do Básico ao Avançado** – Hora de Codar (2022)  
-- **Dados com Pandas & SQL** – Asimov Academy  
-- **Banco de Dados Relacional e NoSQL** – Danki Code  
-- **Python para Iniciantes** – UNINTER  
-
----
-
-## Contato  
 
 - **LinkedIn:** [linkedin.com/in/renato-jr-mathias-b76117221](https://www.linkedin.com/in/renato-jr-mathias-b76117221)  
-- **E-mail:** renatojrmathias94@gmail.com  
-- **GitHub:** [github.com/Billrenato](https://github.com/Billrenato)  
+- **Email:** renatojrmathias94@gmail.com  
 
----
 
 
 <!---<div align="center">
