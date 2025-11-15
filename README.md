@@ -15,10 +15,22 @@ I have a strong interest in **hardware, games, and artificial intelligence**, al
 Currently, I work as an **Analyst and Developer at Psoft**, where I focus on **process automation using Python**, **API REST system integration**, and **optimization of development and production environments**.  
 My background also includes **software testing, technical support, and data analysis**, giving me a full view of a solution’s life cycle — from concept to final delivery.  
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
+</div>
 ---
 
 - **LinkedIn:** [linkedin.com/in/renato-jr-mathias-b76117221](https://www.linkedin.com/in/renato-jr-mathias-b76117221)  
 - **Email:** renatojrmathias94@gmail.com  
+
+### 🛠️ Technologies & Tools
 
 
 
