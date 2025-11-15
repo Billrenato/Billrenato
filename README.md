@@ -53,6 +53,13 @@ My background also includes **software testing, technical support, and data anal
 
 
 
+<div align="center">
+    
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Billrenato&theme=tokyonight" width="80%" alt="Sequência de Contribuições do GitHub do Billrenato" />
+    
+</div>
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Billrenato&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billrenato&layout=compact&theme=tokyonight" width="36.3%" />
