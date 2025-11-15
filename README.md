@@ -25,12 +25,16 @@ My background also includes **software testing, technical support, and data anal
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
 </div>
+
 ---
 
-- **LinkedIn:** [linkedin.com/in/renato-jr-mathias-b76117221](https://www.linkedin.com/in/renato-jr-mathias-b76117221)  
-- **Email:** renatojrmathias94@gmail.com  
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-jr-mathias-b76117221)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatojrmathias94@gmail.com)
 
-### 🛠️ Technologies & Tools
+</div>
+
 
 
 
