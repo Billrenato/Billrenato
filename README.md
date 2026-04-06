@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Renato Junior Mathias
+#  Renato Junior Mathias
 
 ### *Backend Developer | Python Specialist | Systems Integration | Automation*
 
@@ -18,16 +18,16 @@
 Graduated in **Systems Analysis and Development** from UNINTER, I'm a Backend Developer passionate about building scalable solutions, modernizing legacy systems, and process automation. My approach combines technical expertise with a strong foundation in software quality — derived from my background in QA — ensuring robust, reliable, and maintainable code.
 
 **What drives me:**
-- 🔄 Modernizing legacy systems and reducing technical debt
-- 🤖 Process automation that delivers measurable impact (60%+ time reduction)
-- 🔗 Seamless system integration through well-crafted APIs
-- 🎯 Data-driven solutions with actionable insights
+-  Modernizing legacy systems and reducing technical debt
+-  Process automation that delivers measurable impact (60%+ time reduction)
+-  Seamless system integration through well-crafted APIs
+-  Data-driven solutions with actionable insights
 
 Currently, I work as a **Python Developer at Psoft (PiracaiaSoft)**, where I lead initiatives to modernize Delphi legacy systems, automate critical processes, and build data pipelines that support strategic decision-making.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
@@ -52,7 +52,7 @@ Currently, I work as a **Python Developer at Psoft (PiracaiaSoft)**, where I lea
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### [Guardião Fiscal](https://github.com/Billrenato/SaaS)
 > *SaaS for Tax Document Processing*
@@ -71,9 +71,9 @@ Automated update system for ERP software with version management, automatic down
 **Tech Stack:** `FastAPI` `AWS (EC2/S3)` `Docker` `PostgreSQL`
 
 **Key Features:**
-- 📦 Version control and rollback support
-- 🔄 Automatic update distribution to multiple clients
-- 📊 Real-time update status monitoring
+-  Version control and rollback support
+-  Automatic update distribution to multiple clients
+-  Real-time update status monitoring
 
 ---
 
@@ -85,13 +85,13 @@ OCR solution for handwritten text recognition using TrOCR and EasyOCR. Exposed v
 **Tech Stack:** `FastAPI` `Transformers` `EasyOCR` `Docker` `PostgreSQL` `Android`
 
 **Key Features:**
-- ✍️ Handwritten text recognition with state-of-the-art models
-- 📱 Mobile integration ready
-- 🐳 Fully containerized deployment
+-  Handwritten text recognition with state-of-the-art models
+-  Mobile integration ready
+-  Fully containerized deployment
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### **Python Developer** @ *Psoft (PiracaiaSoft)*
 *Feb 2024 – Present*
@@ -112,7 +112,7 @@ OCR solution for handwritten text recognition using TrOCR and EasyOCR. Exposed v
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 ### Education
 - **Systems Analysis and Development** – UNINTER (Concluded 2024)
@@ -125,7 +125,7 @@ OCR solution for handwritten text recognition using TrOCR and EasyOCR. Exposed v
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   
@@ -142,7 +142,7 @@ OCR solution for handwritten text recognition using TrOCR and EasyOCR. Exposed v
 
 ---
 
-## 🐍 Contribution Snake Animation
+##  Contribution Snake Animation
 
 <div align="center">
   
@@ -156,7 +156,7 @@ OCR solution for handwritten text recognition using TrOCR and EasyOCR. Exposed v
 
 ---
 
-## 🌐 Languages
+##  Languages
 
 - 🇧🇷 **Portuguese** – Native
 - 🇺🇸 **English** – Advanced (Technical proficiency)
@@ -164,7 +164,7 @@ OCR solution for handwritten text recognition using TrOCR and EasyOCR. Exposed v
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
   
